@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ctfconsole](http://github.com/cyberphor/ctfconsole)
 
-- 🌱 I’m currently learning **Go and Godot.**
+- 🌱 I’m currently learning **Go, Bootstrap, and Godot.**
 
 - 👨‍💻 All of my projects are available at [http://github.com/cyberphor](http://github.com/cyberphor)
 
