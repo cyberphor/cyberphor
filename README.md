@@ -11,7 +11,7 @@
 
 - 📝 I sometimes write articles on [http://cyberphor.com](http://cyberphor.com)
 
-- 💬 Ask me about **incident handling, PowerShell, and Security Onion.**
+- 💬 Ask me about **incident handling, PowerShell, Python, and Security Onion.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
