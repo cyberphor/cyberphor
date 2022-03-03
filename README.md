@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/cyberphor" target="blank"><img src="https://img.shields.io/twitter/follow/cyberphor?logo=twitter&style=for-the-badge" alt="cyberphor" /></a> </p>
 
-- 🔭 I’m currently working on [ctfconsole](http://github.com/cyberphor/ctfconsole)
+- 🔭 I’m currently working on [ctfconsole](https://github.com/cyberphor/ctfconsole)
 
 - 🌱 I’m currently learning **Go, Bootstrap, and Godot.**
 
-- 👨‍💻 All of my projects are available at [http://github.com/cyberphor](http://github.com/cyberphor)
+- 👨‍💻 All of my projects are available at [https://github.com/cyberphor](https://github.com/cyberphor)
 
-- 📝 I sometimes write articles on [http://cyberphor.com](http://cyberphor.com)
+- 📝 I sometimes write articles on [https://cyberphor.com](https://cyberphor.com)
 
 - 💬 Ask me about **incident handling, PowerShell, Python, and Security Onion.**
 
