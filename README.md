@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/cyberphor" target="blank"><img src="https://img.shields.io/twitter/follow/cyberphor?logo=twitter&style=for-the-badge" alt="cyberphor" /></a> </p>
 
-- 🔭 I’m currently working on [ctfconsole](https://github.com/cyberphor/ctfconsole)
+- 🔭 I’m currently working on [soap](https://github.com/cyberphor/soap)
 
 - 🌱 I’m currently learning **Go, Bootstrap, and Godot.**
 
@@ -11,7 +11,7 @@
 
 - 📝 I sometimes write articles on [https://cyberphor.com](https://cyberphor.com)
 
-- 💬 Ask me about **incident handling, PowerShell, Python, and Security Onion.**
+- 💬 Ask me about **PowerShell, Python, and cyber defense.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
