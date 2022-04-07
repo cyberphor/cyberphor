@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Fernandez III</h1>
-<h3 align="center">A Blue Team Bench-Warmer.</h3>
+<h3 align="center">Blue Team Bench-Warmer.</h3>
 
 <p align="left"> <a href="https://twitter.com/cyberphor" target="blank"><img src="https://img.shields.io/twitter/follow/cyberphor?logo=twitter&style=for-the-badge" alt="cyberphor" /></a> </p>
 
