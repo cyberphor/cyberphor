@@ -11,7 +11,7 @@
 
 - 📝 I sometimes write articles on [https://cyberphor.com](https://cyberphor.com)
 
-- 💬 Ask me about **PowerShell, Python, and cyber-security.**
+- 💬 Ask me about **PowerShell, Python, and cybersecurity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
