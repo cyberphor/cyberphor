@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/cyberphor" target="blank"><img src="https://img.shields.io/twitter/follow/cyberphor?logo=twitter&style=for-the-badge" alt="cyberphor" /></a> </p>
 
-- 🔭 I’m currently working on a [cyber-defense-lab](https://github.com/cyberphor/cyber-defense-lab) to practice detection engineering.
+- 🔭 I’m currently developing [cybersecurity-labs](https://github.com/cyberphor/cybersecurity-labs) to practice detection engineering.
 
 - 🌱 I’m currently learning **Go, Bootstrap, and Godot.**
 
